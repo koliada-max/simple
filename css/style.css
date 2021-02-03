@@ -1,0 +1,36 @@
+body {
+    margin-right: 0;
+}
+
+h1 {
+    background-color:rgb(175, 32, 32);
+    color: #ffffff;
+    text-align: center;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+.sunset-image {
+    width: 98%;
+}
+
+.cars-containers {
+
+    text-align: center;
+}
+
+.car-image {
+        border: 2px dashed hsl(0, 0%, 0%);
+    }
+
+.Footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
